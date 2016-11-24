@@ -32,7 +32,7 @@
             </div>
             <div class="form_header">
                 <h2>
-                    Member Login
+                    Member
                 </h2>
             </div>
             <form class="login_form">
